@@ -1,14 +1,10 @@
 # Automobile-Price-Fuel-Economy-Analysis
-A data analysis project in Python (Pandas) using the UCI Automobile dataset of 1985 imported cars. I built it for my BTA 522 course at Portland State University.  Tools: Python, Pandas, Seaborn, Matplotlib, Google Colab
-Notebook: https://colab.research.google.com/drive/1_CXatX6DULF3OKKy-AONd712gk5okYsA
 
 # Automobile Price & Fuel Economy Analysis
 
 A data analysis project in Python (Pandas) using the UCI Automobile dataset of 1985 imported cars. I built it for my BTA 522 course at Portland State University.
 
 **Tools:** Python, Pandas, Seaborn, Matplotlib, Google Colab
-
-Notebook: [link to your Colab notebook here]
 
 ---
 
@@ -115,3 +111,4 @@ Open the notebook and run the cells from top to bottom. The data downloads from 
 ## Data credit
 
 Automobile dataset, UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/10/automobile
+https://www.kaggle.com/datasets/toramky/automobile-dataset
